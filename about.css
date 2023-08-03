@@ -1,0 +1,107 @@
+body{
+    background-image: url("bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%; 
+}
+
+a:hover {
+   
+    opacity: 0.5;
+
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color:white;
+}
+    
+
+  .bottom-center {
+        position: absolute;
+        top: 102%;
+        left: 50%;
+        bottom: 90%;
+        transform: translate(-50%, -50%);
+        
+      }
+
+ .flex-box{
+    display: flex;
+    margin: 10px;
+ }     
+
+
+  .te{
+    color: azure;
+    width: 100%;
+    padding-top: 10rem;
+  }
+
+  /* .hed:hover{
+    opacity: 0.5;
+  } */
+
+  .hed{
+    opacity: 0.7;
+  }
+
+  
+
+  img{
+    background-image: url("laptop.jpg");
+    width: 227px;
+    height: 260px;
+    margin: 1rem;
+    padding: 0rem;
+  }
+
+  .cir{
+    border: 2px solid black;
+  
+  }
+
+  .hedd{margin-top: 84px;
+    padding: 10px;
+    opacity: 0.6;
+}
+
+.hed-d{
+    margin-top: 20px;
+    padding-right: 10px;
+}
+
+ 
+ 
+  .container {
+    padding: 50px;
+    /* background-color: green; */
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 3%;
+    padding: 1px;
+  }
+
+  .container:hover {
+    transform: scale(1.3);
+}
+
+.c1{
+  padding-right: 10px;
+}
+
+.par{
+  
+
+  padding-left: 65px; 
+    margin-left: 28px;
+    padding-top: 65px;
+}
+
+.im1{
+  width: 60px;
+  height: 60px;
+
+}

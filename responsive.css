@@ -1,0 +1,49 @@
+
+   body{
+   background-image: url("laptop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%; 
+  
+  
+}  
+
+
+
+/* .na{
+  border: 1px solid black;
+  
+} */
+
+  a:hover {
+   
+      opacity: 0.4;
+
+    }
+   
+   .content{
+    text-align: center;
+    padding-top: 125px;
+    color:white;
+    
+    
+   }
+    .name{
+      font-size:70px;
+    }
+
+    .te{
+      color: azure;
+      width: 100%;
+      padding-top: 11rem;
+    }
+
+    .fot{
+      padding: 0rem;
+      margin: 0px;
+    }
+
+    .foter{
+      margin:1px;
+      padding: 0px;
+    }

@@ -1,0 +1,45 @@
+
+body{
+  background-image: url("bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%; 
+}
+
+a:hover {
+ 
+  opacity: 0.5;
+
+}
+
+.te{
+  color: azure;
+  width: 100%;
+  padding-top: 11rem;
+}
+
+.container-t{
+      border: 2px solid black;
+      margin: 5rem;
+      padding: 5rem;
+      color: black;
+      background-color: aquamarine;
+      opacity: 0.5;
+}
+
+
+
+
+/* .icon{
+  width: 25px;
+  height: 25px;
+  border-radius: 2px solid black;
+} */
+
+/* .insta{
+  color:rgb(243, 229, 229);
+  
+  background-image: linear-gradient(#405DE6 ,#5851DB,#833AB4, #C13584, #E1306C,#FD1D1D,#F56040, #F77737,#FCAF45, #FFDC80);
+   
+  
+} */
